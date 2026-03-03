@@ -14,5 +14,4 @@ public class CloudapiApplication {
         System.out.println("DB_URL=" + env.getProperty("DB_URL"));
         app.run(args);
     }
-
 }
